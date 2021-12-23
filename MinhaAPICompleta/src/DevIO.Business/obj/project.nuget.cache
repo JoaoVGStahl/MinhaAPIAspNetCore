@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U3Goh3BicwoTeUnHjlKUiexNNg4Qr9DP0s83VSeT0/zEryLX/j5mUXq+WYtAUzR91FqJK6Z2BeLn1oj48EiQEw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\apis-rest\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
